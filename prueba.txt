@@ -1,0 +1,15 @@
+Usuario
+linux
+alumno
+linux
+reboot
+linux
+reboot
+wtmp
+---
+Term
+:0
+system
+system
+Oct
+---
